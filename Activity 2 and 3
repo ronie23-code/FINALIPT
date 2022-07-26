@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        
+        a:hover {
+          background-color: white;
+        }
+        h1 {
+        background-color: lightblue;
+          border: 5px solid red;
+        }
+        h1 {
+          text-shadow: 2px 2px #FF0000;
+        }
+        h2 {
+        background-color: lightblue;
+           border: double;
+        }
+        p {
+        background-color: rgb(22, 122, 155);
+           border: double;
+           text-shadow: 2px 2px #ec9696;
+        }
+    
+    .zoom {
+      padding: 50px;
+      transition: transform .2s;
+      width: 70px;
+      height: 70px;
+      margin: 0 auto;
+    }
+    .zoom:hover {
+      -ms-transform: scale(1.5); /* IE 10 */
+      -webkit-transform: scale(1.5); /* Safari 3-8 */
+      transform: scale(1.5); 
+    }
+    </style>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     
+<body style="background-image: url(W.gif); background-size: 100% 100%">
+<hr width=4000 size=4 color="black"> </hr>
+<h1 align="center">FAVORITES</h1>
+<hr width=4000 size=4 color="black"> </hr>
+<center>
+<h1 align="center">INSTAGRAM</h1>
+    <div class="zoom"><a href="https://www.instagram.com/"target="_blank"><img border="0" alt="Instagram" src="ig.png" width="100" height="100"></a></div>
+<p align="center">Instagram is a free photo and video sharing app available on iPhone and Android. People can upload photos or videos to our service and share them with their followers or with a select group of friends. They can also view, comment and like posts shared by their friends on Instagram.</p><br><br>
+
+<a align="center"href="https://twitter.com/"target="_blank">
+    <div class="zoom"><a href=""target="_blank"><img border="0" alt="Twitter" src="tt.png" width="100" height="100"></a></div>
+<p align="center">Twitter is a free social networking microblogging service that allows registered members to broadcast short posts called tweets. Twitter members can broadcast tweets and follow other users' tweets by using multiple platforms and devices.</p><br><br>
+
+<h1 align="center">MESSENGER</h1>
+<div class="zoom"><a href="https://www.messenger.com/"target="_blank"><img border="0" alt="Messenger" src="mm.jpg" width="100" height="100"></a></div>
+<p align="center">Facebook Messenger is a FREE mobile messaging app used for instant messaging, sharing photos, videos, audio recordings and for group chats. The app, which is free to download, can be used to communicate with your friends on Facebook and with your phone contacts.</p><br><br>
+
+<h1 align="center">GOOGLE</h1>
+<div class="zoom"><a href="https://www.google.com/"target="_blank" > <img border="0" alt="Google" src="gg.png" width="100" height="100"></a></div>
+<p align="center">Google is an American company that is most commonly known as a search engine. Although the company made it's name as a search engine, and the vast majority of its income comes from advertising because of this, it has branched out into a number of areas such as cloud computing, software and hardware.</p><br><br>
+    
+<h1 align="center">YOUTUBE</h1>
+<div class="zoom"><a href="https://www.youtube.com"target="_blank"><img border="0" alt="YouTube" src="y.png" width="100" height="100"></a></div>
+<p align="center">YouTube is an American online video sharing and social media platform headquartered in San Bruno, California. It was launched on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim. Owned by Google, it is the second most visited website, right after Google itself.</p><br><br>
+
+<table align="center"; border style="width:50%">
+
+<center>
+
+<tr>
+
+  <td></td>
+  <th>BROWSER</th>
+  <th>WEBSITE</th>
+  <th>LINKS</th>
+
+</tr>
+<tr>
+
+  <th>SEARCH</td>
+  <td>CHROME</td>
+  <td>INSTAGRAM</td>
+  <td>
+  <a href="https://www.instagram.com/"target="_blank">https://www.instagram.com/</a></td>
+ 
+</tr>
+<tr>
+  <td></td>
+  <td>CHROME</td>
+  <td>TWITTER</td>
+  <td>
+  <a href="https://twitter.com/"target="_blank">https://twitter.com/
+  
+  </a></td>
+  </tr>
+
+    <tr>
+        <td></td>
+        <td>CHROME</td>
+         <td>MESSENGER</td>
+            <td><a
+    href="https://www.messenger.com/"target="_blank">https://www.messenger.com/
+    </a></td>
+    </tr>
+
+  <tr>
+    <td></td>
+    <td>CHROME</td>
+    <td>GOOGLE</td>
+    <td><a 
+    href="https://www.google.com/"target="_blank" >https://www.google.com/</a></td>
+
+    </tr>
+  
+    <tr>
+      <td></td>
+      <td>CHROME</td>
+      <td>YOUTUBE</td>
+      <td><a 
+    href="https://www.youtube.com"target="_blank">https://www.youtube.com/
+
+	</a></td>
+      </tr>
+    
+      <div class="zoom"><a href="https://www.messenger.com/"target="_blank"><img border="0" alt="Messenger" src="mm.jpg" width="100" height="100"></a></div>
+
+
+  </head>
+  </body>
+  </table>
+
+   <div class="zoom">
+      <a href = "ACTIVITY4.html" target="_blank"><img border="0" alt="Home" src="h.png" width="100" height="100"></a> </div>
+  </html>
