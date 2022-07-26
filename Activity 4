@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body style="background-image: url(W.gif); background-size: 100% 100%">
+<hr width=1300 size=4 color="black"> </hr>
+<h2 align="center"style="background-color:tomato">HOME</h2>
+<hr width=1300 size=4 color="black"></hr><br>
+<center>
+<a href="ACTIVITY5.html"><img border="0" alt="USER" src="us.png" width="220" height="220"></a>
+<p style="font-size:2vw">INFORMATION ABOUT MYSELF</p>
+<a href="ACTIVITY2.html"><img border="0" alt="FAVORITES" src="s.png" width="270" height="220"></a>
+<p style="font-size:2vw">FAVORITES</p>
+<a href="Fam.html"><img border="0" alt="Social Media" src="fam.png" width="270" height="220"></a>
+<p style="font-size:2vw">INFORMATION ABOUT MY FAMILY</p>
+
+</body>
+</html>
